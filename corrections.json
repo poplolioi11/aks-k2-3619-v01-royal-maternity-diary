@@ -1,0 +1,1535 @@
+{
+  "changes": [
+    {
+      "unit": "002l07",
+      "frame": 2,
+      "side": "002-L",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "全",
+      "after": "金",
+      "image_sha256": "437afa2fe5993d7d288b5110101b2b2105f06e1a6724427b7ae3951c1561e826",
+      "image_bbox": null,
+      "reason": "壽前、國前皆見人字形覆罩；中腰與底部有分筆和末橫，非全的王形底。與同葉C05「金汝器」、C06欄首「金慶華」對比。"
+    },
+    {
+      "unit": "002l07",
+      "frame": 2,
+      "side": "002-L",
+      "offset_start": 3,
+      "offset_end": 4,
+      "before": "全",
+      "after": "金",
+      "image_sha256": "437afa2fe5993d7d288b5110101b2b2105f06e1a6724427b7ae3951c1561e826",
+      "image_bbox": null,
+      "reason": "壽前、國前皆見人字形覆罩；中腰與底部有分筆和末橫，非全的王形底。與同葉C05「金汝器」、C06欄首「金慶華」對比。"
+    },
+    {
+      "unit": "002l08",
+      "frame": 2,
+      "side": "002-L",
+      "offset_start": 2,
+      "offset_end": 3,
+      "before": "元",
+      "after": "允",
+      "image_sha256": "437afa2fe5993d7d288b5110101b2b2105f06e1a6724427b7ae3951c1561e826",
+      "image_bbox": null,
+      "reason": "道後字上半為連寫斜折，未見元的二橫，底端分左撇右鉤。"
+    },
+    {
+      "unit": "003r04",
+      "frame": 3,
+      "side": "003-R",
+      "offset_start": 26,
+      "offset_end": 27,
+      "before": "乙",
+      "after": "小々",
+      "image_sha256": "ec9a7a8b32b9a38ee7e8b47c9ece25c5cfaf412e50bd287d15b484b066c343ca",
+      "image_bbox": null,
+      "reason": "應入以下有一中央直筆與左右點的小字，下接與多處「云」下相同短曲形，需保留重文記號。下框遮到短曲形下緣。"
+    },
+    {
+      "unit": "003l07",
+      "frame": 3,
+      "side": "003-L",
+      "offset_start": 15,
+      "offset_end": 16,
+      "before": "柱",
+      "after": "土",
+      "image_sha256": "ec9a7a8b32b9a38ee7e8b47c9ece25c5cfaf412e50bd287d15b484b066c343ca",
+      "image_bbox": null,
+      "reason": "而下字中央直筆接兩橫，左側是同一底橫的延伸；未見獨立木旁。004-L C06亦見同形。"
+    },
+    {
+      "unit": "003l11",
+      "frame": 3,
+      "side": "003-L",
+      "offset_start": 12,
+      "offset_end": 13,
+      "before": "屨",
+      "after": "履",
+      "image_sha256": "ec9a7a8b32b9a38ee7e8b47c9ece25c5cfaf412e50bd287d15b484b066c343ca",
+      "image_bbox": null,
+      "reason": "草後尸形大外撇下的右半見復形折捺，婁部下女兩橫未見，可讀履。"
+    },
+    {
+      "unit": "004l06",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 22,
+      "offset_end": 23,
+      "before": "柱",
+      "after": "土",
+      "image_sha256": "f86ddbddecae6a533a6de8fd4905c59632a3ab4f28b73927c0754e1c90a8dca3",
+      "image_bbox": null,
+      "reason": "於下重墨字由中央直畫及上下兩橫組成，左部無木形分筆，與003-L C07近。"
+    },
+    {
+      "unit": "005l08",
+      "frame": 5,
+      "side": "005-L",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "令",
+      "after": "今",
+      "image_sha256": "5981894f246a77fc6d6c2d8ffc2413f8b90b20ae8e7fdd9d9d1d7edbcc27fa0b",
+      "image_bbox": null,
+      "reason": "二錢下讀今，頂人字形下單獨短墨，末有回鉤，未見令的下卩竪筆。"
+    },
+    {
+      "unit": "006l03",
+      "frame": 6,
+      "side": "006-L",
+      "offset_start": 19,
+      "offset_end": 20,
+      "before": "午",
+      "after": "子",
+      "image_sha256": "0af383169743424b21d252767e86af44d0260461dbab50d63cc8bcea80945e8d",
+      "image_bbox": null,
+      "reason": "日下作上小曲、橫畫穿中與末長鉤；沒有午的上短撇及直腳。未、間相鄰字完整。"
+    },
+    {
+      "unit": "008l13",
+      "frame": 8,
+      "side": "008-L",
+      "offset_start": 14,
+      "offset_end": 15,
+      "before": "袱",
+      "after": "被",
+      "image_sha256": "b86abf5d5df2639083ff32457ce4b2c91f585b762f888934c221209d5b376630",
+      "image_bbox": null,
+      "reason": "紅下字左衤，右上折垂、下有又形長捺，近皮，未見袱右亻加犬的分立結構。"
+    },
+    {
+      "unit": "009r03",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 7,
+      "offset_end": 8,
+      "before": "柜",
+      "after": "拒",
+      "image_sha256": "9a001ace1d34ef99460e13937cb810425667fa1f5b2b1eafb01f7aa1c45defac",
+      "image_bbox": null,
+      "reason": "捧下右有巨形，左側竪鉤加挑筆而少木右下捺，兩字同取扌；取拒。"
+    },
+    {
+      "unit": "009r05",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 12,
+      "offset_end": 14,
+      "before": "欠等",
+      "after": "々將",
+      "image_sha256": "9a001ace1d34ef99460e13937cb810425667fa1f5b2b1eafb01f7aa1c45defac",
+      "image_bbox": null,
+      "reason": "部之後是低位短曲重文筆，再下一足尺字左爿右寸，與同幅C06部將的將相近。保留初錄的重文編碼。"
+    },
+    {
+      "unit": "009r05",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 8,
+      "offset_end": 9,
+      "before": "襲",
+      "after": "囊",
+      "image_sha256": "9a001ace1d34ef99460e13937cb810425667fa1f5b2b1eafb01f7aa1c45defac",
+      "image_bbox": null,
+      "reason": "斌下字中上為豎穿兩短框，下口及衣形撇捺，未見左上龍形；與囊相合。"
+    },
+    {
+      "unit": "009r06",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 15,
+      "offset_end": 16,
+      "before": "一",
+      "after": "二",
+      "image_sha256": "9a001ace1d34ef99460e13937cb810425667fa1f5b2b1eafb01f7aa1c45defac",
+      "image_bbox": null,
+      "reason": "使令下字可見上下兩分離短橫，與書者一名處單橫有別。"
+    },
+    {
+      "unit": "009r07",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 5,
+      "offset_end": 6,
+      "before": "杻",
+      "after": "抄",
+      "image_sha256": "9a001ace1d34ef99460e13937cb810425667fa1f5b2b1eafb01f7aa1c45defac",
+      "image_bbox": null,
+      "reason": "函後字左竪鉤橫挑，右有分點和右下長撇，末部既無木右下捺，也無丑底橫。"
+    },
+    {
+      "unit": "009l01",
+      "frame": 9,
+      "side": "009-L",
+      "offset_start": 24,
+      "offset_end": 25,
+      "before": "一",
+      "after": "二",
+      "image_sha256": "9a001ace1d34ef99460e13937cb810425667fa1f5b2b1eafb01f7aa1c45defac",
+      "image_bbox": null,
+      "reason": "鼎紬後有細短上橫與次一長橫，疋上方兩筆各自與該字分開。"
+    }
+  ],
+  "unresolved": [
+    {
+      "column": "002l07",
+      "finding": {
+        "initial_span_start_end": [
+          13,
+          14
+        ],
+        "initial": "捧",
+        "image_first": "採",
+        "proposal_or_alternatives": "採",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89b3d05c126773d64b219b4a17e7032428aeb7ee7653513436ac7b81571dff0b",
+          "column_bbox_xyxy": [
+            640,
+            38,
+            722,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            563,
+            130,
+            813,
+            1520
+          ],
+          "reading_evidence": "監下字左有竪鉤提，右上似爪形展點，右下木形交筆；與捧的奉下部仍宜對照。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "002l07",
+      "finding": {
+        "initial_span_start_end": [
+          23,
+          24
+        ],
+        "initial": "賁",
+        "image_first": "賓",
+        "proposal_or_alternatives": "賓／賔",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89b3d05c126773d64b219b4a17e7032428aeb7ee7653513436ac7b81571dff0b",
+          "column_bbox_xyxy": [
+            640,
+            38,
+            722,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            563,
+            130,
+            813,
+            1520
+          ],
+          "reading_evidence": "國後字頂有屋形點與勾，底部似貝，賁上部廾形不清；不足定精確碼位。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "002l08",
+      "finding": {
+        "initial_span_start_end": [
+          8,
+          9
+        ],
+        "initial": "翊",
+        "image_first": "翮",
+        "proposal_or_alternatives": "翮／翺／翰",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89b3d05c126773d64b219b4a17e7032428aeb7ee7653513436ac7b81571dff0b",
+          "column_bbox_xyxy": [
+            559,
+            38,
+            640,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            563,
+            130,
+            663,
+            920
+          ],
+          "reading_evidence": "天後右從羽，左部上折下長直小框，現圖可排弱立形，鬲、皐或其他須再證。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "002l14",
+      "finding": {
+        "initial_span_start_end": [
+          23,
+          24
+        ],
+        "initial": "德",
+        "image_first": "希",
+        "proposal_or_alternatives": "希／香／德",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89b3d05c126773d64b219b4a17e7032428aeb7ee7653513436ac7b81571dff0b",
+          "column_bbox_xyxy": [
+            70,
+            38,
+            152,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            65,
+            1200,
+            138,
+            1440
+          ],
+          "reading_evidence": "仁後濃墨下半呈盤曲，彳及心部不明；005-R與007-R「仁香」提供同冊問題，當位置先保留三讀。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003r02",
+      "finding": {
+        "initial_span_start_end": [
+          18,
+          19
+        ],
+        "initial": "韉",
+        "image_first": "鞣",
+        "proposal_or_alternatives": "轡／韉／其他",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "6bb3960d16abff752b37df20601ca7094dc9909c2299075f6fdbbeb7e1b2d5d9",
+          "column_bbox_xyxy": [
+            1038,
+            38,
+            1119,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            1036,
+            945,
+            1127,
+            1170
+          ],
+          "reading_evidence": "馬後上下曲形及下口形，與003-L C08及004-L C07相近；個別詞義與確切碼位未決。原讀鞣缺可確認的柔旁，保留讀史。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l06",
+      "finding": {
+        "initial_span_start_end": [
+          9,
+          11
+        ],
+        "initial": "迴鑾",
+        "image_first": "退織",
+        "proposal_or_alternatives": "退鐵",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            724,
+            38,
+            804,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            727,
+            515,
+            825,
+            1132
+          ],
+          "reading_evidence": "昌下二字首有辶承托近艮結構；次字左部見金形，右部有長斜鉤，與日月形的鑾、絲旁的織有別；同觀C12。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l07",
+      "finding": {
+        "initial_span_start_end": [
+          6,
+          7
+        ],
+        "initial": "室",
+        "image_first": "定",
+        "proposal_or_alternatives": "定",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            642,
+            38,
+            724,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            640,
+            770,
+            755,
+            1560
+          ],
+          "reading_evidence": "入下宀及末長捺可見，室下至的收筆未見；小字墨混，建議重看同手處。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l08",
+      "finding": {
+        "initial_span_start_end": [
+          14,
+          15
+        ],
+        "initial": "釘",
+        "image_first": "鍛",
+        "proposal_or_alternatives": "鍛／釘",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            562,
+            38,
+            642,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            558,
+            1010,
+            641,
+            1560
+          ],
+          "reading_evidence": "吉方後左金形清楚，右彎折與收點未能確定。與C11兩例合查，勿以器物語意代字形。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l08",
+      "finding": {
+        "initial_span_start_end": [
+          20,
+          21
+        ],
+        "initial": "韉",
+        "image_first": "轡",
+        "proposal_or_alternatives": "轡／韉",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            562,
+            38,
+            642,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            558,
+            1010,
+            641,
+            1560
+          ],
+          "reading_evidence": "馬下疊曲筆，末部見口形；與003-R C02及004-L C07互為形近證據，整體部件待定。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l10",
+      "finding": {
+        "initial_span_start_end": [
+          2,
+          3
+        ],
+        "initial": "苧",
+        "image_first": "芋",
+        "proposal_or_alternatives": "芋／苧",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            400,
+            38,
+            480,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "生下筆劃省，艹下中央勾近于，宀或丁的獨立筆畫未定。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l10",
+      "finding": {
+        "initial_span_start_end": [
+          6,
+          7
+        ],
+        "initial": "鼬",
+        "image_first": "黿",
+        "proposal_or_alternatives": "鼬／黿／鼯",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            400,
+            38,
+            480,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "鋪下首字概有密集雙格形，後接鼠皮；右下薄墨不足確定相關部件。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l11",
+      "finding": {
+        "initial_span_start_end": [
+          14,
+          15
+        ],
+        "initial": "釘",
+        "image_first": "鍛",
+        "proposal_or_alternatives": "鍛／釘",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            318,
+            38,
+            400,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            326,
+            830,
+            397,
+            1250
+          ],
+          "reading_evidence": "兩金旁字右邊均有弧筆及下折，與較簡丁形不同的可能；確切碼位待同版近例。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l11",
+      "finding": {
+        "initial_span_start_end": [
+          17,
+          18
+        ],
+        "initial": "釘",
+        "image_first": "鍛",
+        "proposal_or_alternatives": "鍛／釘",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            318,
+            38,
+            400,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            326,
+            830,
+            397,
+            1250
+          ],
+          "reading_evidence": "兩金旁字右邊均有弧筆及下折，與較簡丁形不同的可能；確切碼位待同版近例。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "003l12",
+      "finding": {
+        "initial_span_start_end": [
+          22,
+          24
+        ],
+        "initial": "迴鑾",
+        "image_first": "退織",
+        "proposal_or_alternatives": "退鐵",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "89a9f18cb360015780ccc07775a06d00138e84321240b4518ff715a501f35675",
+          "column_bbox_xyxy": [
+            238,
+            38,
+            318,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            242,
+            1210,
+            323,
+            1450
+          ],
+          "reading_evidence": "二員下首字走之、次字左金與右端斜筆，呼應C06；未將職名跨欄自動統一。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "004l07",
+      "finding": {
+        "initial_span_start_end": [
+          1,
+          2
+        ],
+        "initial": "韉",
+        "image_first": "轡",
+        "proposal_or_alternatives": "轡／韉",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "8fd60911d8b98463f61e9552046325edd540d6b9b7cf527c958a600cf11b3493",
+          "column_bbox_xyxy": [
+            642,
+            38,
+            722,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "馬下字左右有曲連筆、其下似口；此字與003-L C08和003-R C02近，待確認部件。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "005r05",
+      "finding": {
+        "initial_span_start_end": [
+          9,
+          10
+        ],
+        "initial": "重",
+        "image_first": "玉",
+        "proposal_or_alternatives": "玉／王",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "d10439cb8cf3513c4782fc989b4f5e9c7140087449e093792fc04c4d930fd6b1",
+          "column_bbox_xyxy": [
+            774,
+            38,
+            855,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "金與信之間的字約三橫一豎，右下似小點，與重的中間田框構型不同，污斑使末小點未定。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "005r13",
+      "finding": {
+        "initial_span_start_end": [
+          27,
+          29
+        ],
+        "initial": "綿濕",
+        "image_first": "締活",
+        "proposal_or_alternatives": "綿濕／綿活",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "d10439cb8cf3513c4782fc989b4f5e9c7140087449e093792fc04c4d930fd6b1",
+          "column_bbox_xyxy": [
+            123,
+            38,
+            204,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            125,
+            1310,
+            215,
+            1596
+          ],
+          "reading_evidence": "似下首從糸，右上有白形，現傾向綿。末字上左如氵、右下曲腳近版框，濕與活未決。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006r01",
+      "finding": {
+        "initial_span_start_end": [
+          27,
+          28
+        ],
+        "initial": "顒",
+        "image_first": "頗",
+        "proposal_or_alternatives": "顒／頗",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "7323d15e94158c10657af4feb4c2fee5763a2aafc4de45af63b5313043b878db",
+          "column_bbox_xyxy": [
+            1101,
+            38,
+            1181,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            1105,
+            1450,
+            1182,
+            1590
+          ],
+          "reading_evidence": "之後末字左側小框及彎垂筆，右下兩點近平削欄框；頁形上方隱沒，未能裁禺與皮。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006r02",
+      "finding": {
+        "initial_span_start_end": [
+          3,
+          4
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "7323d15e94158c10657af4feb4c2fee5763a2aafc4de45af63b5313043b878db",
+          "column_bbox_xyxy": [
+            1020,
+            38,
+            1101,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006r05",
+      "finding": {
+        "initial_span_start_end": [
+          13,
+          14
+        ],
+        "initial": "睛",
+        "image_first": "眄",
+        "proposal_or_alternatives": "眄／睛",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "7323d15e94158c10657af4feb4c2fee5763a2aafc4de45af63b5313043b878db",
+          "column_bbox_xyxy": [
+            777,
+            38,
+            858,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "轉後目旁清楚，右側多處污斑，初見下折鉤；青部與丏部仍需近例。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006r08",
+      "finding": {
+        "initial_span_start_end": [
+          20,
+          21
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "7323d15e94158c10657af4feb4c2fee5763a2aafc4de45af63b5313043b878db",
+          "column_bbox_xyxy": [
+            535,
+            38,
+            616,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006r12",
+      "finding": {
+        "initial_span_start_end": [
+          2,
+          3
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "7323d15e94158c10657af4feb4c2fee5763a2aafc4de45af63b5313043b878db",
+          "column_bbox_xyxy": [
+            211,
+            38,
+            292,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006l01",
+      "finding": {
+        "initial_span_start_end": [
+          2,
+          3
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "ce44087674cb47de624019f178d51bbffd619a6c5e6253648e7b9bc10d2231b8",
+          "column_bbox_xyxy": [
+            1136,
+            38,
+            1218,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006l04",
+      "finding": {
+        "initial_span_start_end": [
+          18,
+          19
+        ],
+        "initial": "發",
+        "image_first": "祭",
+        "proposal_or_alternatives": "祭／發",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "ce44087674cb47de624019f178d51bbffd619a6c5e6253648e7b9bc10d2231b8",
+          "column_bbox_xyxy": [
+            891,
+            38,
+            973,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "草後形頂兩部、下有示似豎鉤。008-L C08捲草祭較清楚，可助回查，兩處仍分開留證。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006l07",
+      "finding": {
+        "initial_span_start_end": [
+          1,
+          2
+        ],
+        "initial": "蘸",
+        "image_first": "薰",
+        "proposal_or_alternatives": "薰／蘸",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "ce44087674cb47de624019f178d51bbffd619a6c5e6253648e7b9bc10d2231b8",
+          "column_bbox_xyxy": [
+            646,
+            38,
+            728,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "爲後首字見艸與左下密點，但下構在斑污間交疊，暫不裁。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006l09",
+      "finding": {
+        "initial_span_start_end": [
+          28,
+          29
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "ce44087674cb47de624019f178d51bbffd619a6c5e6253648e7b9bc10d2231b8",
+          "column_bbox_xyxy": [
+            483,
+            38,
+            564,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "006l13",
+      "finding": {
+        "initial_span_start_end": [
+          0,
+          1
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "ce44087674cb47de624019f178d51bbffd619a6c5e6253648e7b9bc10d2231b8",
+          "column_bbox_xyxy": [
+            156,
+            38,
+            238,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007r02",
+      "finding": {
+        "initial_span_start_end": [
+          16,
+          17
+        ],
+        "initial": "桃",
+        "image_first": "榔",
+        "proposal_or_alternatives": "桃／榔／棟",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3d7b938f75bfa1c6e0c2b3ef1727d60fab5fe367135d6944be8aa454cd29e720",
+          "column_bbox_xyxy": [
+            1020,
+            38,
+            1101,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            1019,
+            780,
+            1120,
+            1285
+          ],
+          "reading_evidence": "梅前字從木候形，右下筆併合，兆、郎與東的界點模糊。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007r03",
+      "finding": {
+        "initial_span_start_end": [
+          12,
+          13
+        ],
+        "initial": "絹",
+        "image_first": "綃",
+        "proposal_or_alternatives": "絹／綃",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3d7b938f75bfa1c6e0c2b3ef1727d60fab5fe367135d6944be8aa454cd29e720",
+          "column_bbox_xyxy": [
+            939,
+            38,
+            1020,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            929,
+            459,
+            1017,
+            1030
+          ],
+          "reading_evidence": "白後至三前的絲旁可見；右半上似口或肖兩點，下皆具月形。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007r07",
+      "finding": {
+        "initial_span_start_end": [
+          21,
+          22
+        ],
+        "initial": "糨",
+        "image_first": "糆",
+        "proposal_or_alternatives": "糨／糆",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3d7b938f75bfa1c6e0c2b3ef1727d60fab5fe367135d6944be8aa454cd29e720",
+          "column_bbox_xyxy": [
+            617,
+            38,
+            698,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "甘後見米旁下撇，右部中間收筆相連，強與面形未清。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007r13",
+      "finding": {
+        "initial_span_start_end": [
+          4,
+          5
+        ],
+        "initial": "紐",
+        "image_first": "鈕",
+        "proposal_or_alternatives": "紐／鈕",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3d7b938f75bfa1c6e0c2b3ef1727d60fab5fe367135d6944be8aa454cd29e720",
+          "column_bbox_xyxy": [
+            133,
+            38,
+            214,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "付下右部外形近丑；左下墨重與邊欄接近，不以器物詞義擇糸或金旁。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007l01",
+      "finding": {
+        "initial_span_start_end": [
+          24,
+          25
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "e6c5f5fa8ae6722a9ae55db07918fd1389f785c35d9a246fb8b0e8d85a070947",
+          "column_bbox_xyxy": [
+            1137,
+            38,
+            1219,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007l05",
+      "finding": {
+        "initial_span_start_end": [
+          0,
+          1
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "e6c5f5fa8ae6722a9ae55db07918fd1389f785c35d9a246fb8b0e8d85a070947",
+          "column_bbox_xyxy": [
+            811,
+            38,
+            893,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007l08",
+      "finding": {
+        "initial_span_start_end": [
+          1,
+          2
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "e6c5f5fa8ae6722a9ae55db07918fd1389f785c35d9a246fb8b0e8d85a070947",
+          "column_bbox_xyxy": [
+            566,
+            38,
+            648,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "007l13",
+      "finding": {
+        "initial_span_start_end": [
+          27,
+          28
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "e6c5f5fa8ae6722a9ae55db07918fd1389f785c35d9a246fb8b0e8d85a070947",
+          "column_bbox_xyxy": [
+            159,
+            38,
+            240,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008r02",
+      "finding": {
+        "initial_span_start_end": [
+          23,
+          24
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "5fe05b788dfe9103c2ac7e4171ef45a11d00c3b4b464da4cd2c3124e03775a25",
+          "column_bbox_xyxy": [
+            1015,
+            38,
+            1097,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008r06",
+      "finding": {
+        "initial_span_start_end": [
+          3,
+          4
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "5fe05b788dfe9103c2ac7e4171ef45a11d00c3b4b464da4cd2c3124e03775a25",
+          "column_bbox_xyxy": [
+            688,
+            38,
+            770,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008r08",
+      "finding": {
+        "initial_span_start_end": [
+          27,
+          28
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "5fe05b788dfe9103c2ac7e4171ef45a11d00c3b4b464da4cd2c3124e03775a25",
+          "column_bbox_xyxy": [
+            525,
+            38,
+            606,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008r11",
+      "finding": {
+        "initial_span_start_end": [
+          12,
+          13
+        ],
+        "initial": "症",
+        "image_first": "疵",
+        "proposal_or_alternatives": "疵／症／痃",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "5fe05b788dfe9103c2ac7e4171ef45a11d00c3b4b464da4cd2c3124e03775a25",
+          "column_bbox_xyxy": [
+            279,
+            38,
+            361,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            270,
+            435,
+            385,
+            950
+          ],
+          "reading_evidence": "無下字外從疒，內部末筆右捺曲收，未見典型正底橫；交疵、痃續辨。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008r12",
+      "finding": {
+        "initial_span_start_end": [
+          6,
+          7
+        ],
+        "initial": "秘",
+        "image_first": "祕",
+        "proposal_or_alternatives": "祕／秘",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "5fe05b788dfe9103c2ac7e4171ef45a11d00c3b4b464da4cd2c3124e03775a25",
+          "column_bbox_xyxy": [
+            198,
+            38,
+            279,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乾下右部為必；左旁寫窄，示的短點與禾的撇橫待比清楚手例。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008l03",
+      "finding": {
+        "initial_span_start_end": [
+          14,
+          15
+        ],
+        "initial": "吃",
+        "image_first": "吮",
+        "proposal_or_alternatives": "吮",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3896c6f77a11f8e85dd5b4e30f4f9537417e471611200499adb9ffc577eff1ca",
+          "column_bbox_xyxy": [
+            974,
+            38,
+            1055,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "乳前字左口，多處右半上撇與彎鉤相連，允與乞的分筆不足裁定。外觀與食物句喫的右契形不同。逐欄保留兩個讀法並沿初錄。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008l09",
+      "finding": {
+        "initial_span_start_end": [
+          6,
+          7
+        ],
+        "initial": "武",
+        "image_first": "或",
+        "proposal_or_alternatives": "或／武",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3896c6f77a11f8e85dd5b4e30f4f9537417e471611200499adb9ffc577eff1ca",
+          "column_bbox_xyxy": [
+            486,
+            38,
+            567,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "斗下筆畫下方斑塊干擾，字上戈鉤可見，中間方框未能確立。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "008l14",
+      "finding": {
+        "initial_span_start_end": [
+          8,
+          9
+        ],
+        "initial": "兩",
+        "image_first": "帒",
+        "proposal_or_alternatives": "帒／兩",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3896c6f77a11f8e85dd5b4e30f4f9537417e471611200499adb9ffc577eff1ca",
+          "column_bbox_xyxy": [
+            79,
+            38,
+            161,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": null,
+          "reading_evidence": "條後字的下垂直筆有巾形可能，周圍織物詞不足裁；同葉C09和C13帒可續比。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    },
+    {
+      "column": "009r06",
+      "finding": {
+        "initial_span_start_end": [
+          26,
+          27
+        ],
+        "initial": "足",
+        "image_first": "各",
+        "proposal_or_alternatives": "各／々／足",
+        "decision": "candidate",
+        "image_evidence": {
+          "working_image_sha256": "3edc69bcd8cc304ec1439b98da6caf19061885faa854ac5c54b7e9e67d7515e5",
+          "column_bbox_xyxy": [
+            682,
+            38,
+            762,
+            1620
+          ],
+          "postseal_crop_bbox_xyxy_or_null": [
+            690,
+            785,
+            775,
+            1133
+          ],
+          "reading_evidence": "巾前字可見上曲下口形的可能，末筆略遭斑染；待核是否重寫各或重文形。",
+          "influences": [
+            "image",
+            "unresolved"
+          ]
+        }
+      }
+    }
+  ],
+  "review_counts": {
+    "images": 11,
+    "surfaces": 20,
+    "body_columns": 207,
+    "cover_title_columns": 3,
+    "image_first_exact_agreements": 120,
+    "differences_by_decision": {
+      "encoding": 48,
+      "confirmed": 16,
+      "candidate": 44,
+      "retained": 25
+    },
+    "high_risk_checks": 36,
+    "confirmed_patch_columns": 14
+  }
+}
